@@ -1,0 +1,20 @@
+class fizzbuzz 
+public static void main(string args[]){
+for(i=0;i<=100;i++)
+{
+if(i%3==0)
+{
+system.out.println("fuzz");
+}
+if(i%3==0&&i%==0)
+{
+system.out.println("fuzzbuzz");
+}
+if(i%5==0)
+{
+system.out.println("buzz");
+}
+else
+{
+system.out.println("i");
+}
