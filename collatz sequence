@@ -1,0 +1,26 @@
+import java.util.scanner 
+class sequence
+public class void main string(args[]){
+int a;
+Scanner in = new Scanner(system.in)
+system.out.println("Enter a number");
+a=i.nextInt();
+for(a=0;a<100;a++){
+if(a==1)
+{
+break;
+}
+else if(a%2==0)
+{
+a=a/2;
+system.out.println(a+,"");
+}
+else if (a%2!=0)
+{
+a=3*a+1
+system.out.println(a+,"");
+}
+}
+
+
+
